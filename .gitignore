@@ -1,0 +1,14 @@
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+/.idea/
+.idea/
+target/
+
+.claude/
+
+.agents/
+skills-lock.json
